@@ -37,9 +37,11 @@ Para instalar, baixe o projeto ou o arquivo zipado no link abaixo e copie a past
 C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 ```
 ### Notas da versão 0.0.9
+- Limpeza do projeto, agora mais leve, não tira frames do simulador...
 - Ajustes da estrutura do projeto 
-- Adicionado farol de itapoan a partir de um modelo generico 
-- Adicionado barcos ao retor do forte São Marcelo 
+- Adicionado farol de Itapoan a partir de um modelo generico 
+- Adicionado barcos ao redor do forte São Marcelo 
+- adicionado iluminação do Farol da Barra
 
 ### Notas da versão 0.0.8
 - Removido ajustes do aeroporto
