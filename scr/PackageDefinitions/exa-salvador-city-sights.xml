@@ -1,0 +1,79 @@
+<AssetPackage Name="exa-salvador-city-sights" Version="0.0.9">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>city-sights-salvador</Title>
+		<Manufacturer/>
+		<Creator>sergiius</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\exa-salvador-city-sights\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\exa-salvador-city-sights\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib-arena-fonte-nova">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\arenafontenova\</AssetDir>
+			<OutputDir>scenery\mycompany\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib-elevador-lacerda">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\elevadorlacerda\</AssetDir>
+			<OutputDir>scenery\mycompany\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib-farol-barra">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\faroldabarra\</AssetDir>
+			<OutputDir>scenery\mycompany\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib-forte-sao-marcelo">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\fortesaomarcelo\</AssetDir>
+			<OutputDir>scenery\mycompany\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib-hotel-pestana">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\hotelpestana\</AssetDir>
+			<OutputDir>scenery\mycompany\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib-mercado-modelo">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\mercadomodelo\</AssetDir>
+			<OutputDir>scenery\mycompany\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>scenery\world/scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

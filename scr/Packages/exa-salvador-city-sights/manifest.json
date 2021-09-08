@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "city-sights-salvador",
+  "manufacturer": "",
+  "creator": "sergiius",
+  "package_version": "0.0.9",
+  "minimum_game_version": "1.19.8",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
