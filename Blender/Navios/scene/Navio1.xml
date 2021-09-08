@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Navio1-->
+	<SceneryObject lat="-12.97035061675790" lon="-38.51174121991770" alt="-10.10784515548659" pitch="0.000895" bank="-0.000895" heading="90.901574" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{FB04281A-DEEA-497E-2EE9-4F2D4B75CEB3}" scale="42.999992"/>
+	</SceneryObject>
+	<!--SceneryObject name: Navio1-->
+	<SceneryObject lat="-12.96814481463656" lon="-38.50956579376977" alt="-2.26642970091343" pitch="0.000881" bank="-0.000881" heading="90.900925" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{FB04281A-DEEA-497E-2EE9-4F2D4B75CEB3}" scale="43.999996"/>
+	</SceneryObject>
+	<!--SceneryObject name: Navio2-->
+	<SceneryObject lat="-12.96320947998770" lon="-38.50853605683623" alt="6.24404528453520" pitch="0.000826" bank="-0.000826" heading="-90.796969" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{95EFA9BF-2E4B-4990-1421-9670A1DBE8F1}" scale="46.000000"/>
+	</SceneryObject>
+</FSData>
+

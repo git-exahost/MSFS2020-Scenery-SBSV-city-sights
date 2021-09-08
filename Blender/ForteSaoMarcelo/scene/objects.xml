@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: ForteSaoMarcelo-->
+	<SceneryObject lat="-12.97552146658369" lon="-38.51526694911988" alt="-16.93409828793220" pitch="0.001544" bank="-0.001544" heading="-91.585972" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{51E773CE-2D1C-44A5-9A51-AC4D7B6A3CAD}" scale="39.187649"/>
+	</SceneryObject>
+</FSData>
+

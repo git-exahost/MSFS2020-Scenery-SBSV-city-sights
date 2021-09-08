@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: ArenaFonteNova-->
+	<SceneryObject lat="-12.98009000000001" lon="-38.50151400000001" alt="-9.99895586450259" pitch="-0.409893" bank="-0.120136" heading="-95.415735" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<HideOnTIN/>
+		<LibraryObject name="{41351808-ACBF-46C0-0C8E-B877B38EBE25}" scale="45.999969"/>
+	</SceneryObject>
+	<!--SceneryObject name: Unknown-->
+	<SceneryObject lat="25.05060418911918" lon="-77.47305751166462" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8396D176-1549-4772-A6E0-A54E5A0EE216}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Unknown-->
+	<SceneryObject lat="25.05112705300210" lon="-77.47373611527840" alt="0.00000000000000" pitch="0.001414" bank="-0.001414" heading="132.619133" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B5A61705-97EF-4CC3-A058-4EB7743564CF}" scale="50.000000"/>
+	</SceneryObject>
+</FSData>
+

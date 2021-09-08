@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: MercadoModelo-->
+	<SceneryObject lat="-12.97219550986242" lon="-38.51399951545365" alt="24.26520570481571" pitch="4.546372" bank="3.111288" heading="-88.603946" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{786A6899-46F1-4809-03A8-CBA7E2ACF42B}" scale="9.500007"/>
+	</SceneryObject>
+</FSData>
+

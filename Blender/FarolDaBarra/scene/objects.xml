@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: FarolDaBarra-->
+	<SceneryObject lat="-13.01096292723029" lon="-38.53246039467407" alt="-5.74879917251632" pitch="3.306822" bank="0.770999" heading="-90.904395" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{255B5599-4346-4AE2-F678-DDB3442849DA}" scale="12.000000"/>
+	</SceneryObject>
+</FSData>
+

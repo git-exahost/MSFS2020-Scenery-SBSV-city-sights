@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: ElevadorLacerda-->
+	<SceneryObject lat="-12.97566183162186" lon="-38.51382817819983" alt="18.87815393552948" pitch="-4.060636" bank="3.439431" heading="-88.519716" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{F19FC154-D64D-4702-A285-C78EB65AB2E6}" scale="13.997062"/>
+	</SceneryObject>
+</FSData>
+
