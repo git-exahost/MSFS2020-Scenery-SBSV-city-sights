@@ -5,13 +5,13 @@ Cenário da cidade Salvador Bahia - SBSV<br>
 Microsoft Flight Simulator 2020
 
 
-![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img01.jpg?raw=true "Forte São Marcelo, Elevador Lacerda, Mercado Modelo")
+![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV-city-sights/blob/main/Screenshots/img01.jpg "Forte São Marcelo, Elevador Lacerda, Mercado Modelo")
 
-![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img02.jpg?raw=true "Arena Fonte Nova")
+![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV-city-sights/blob/main/Screenshots//img02.jpg?raw=true "Arena Fonte Nova")
 
-![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img03.jpg?raw=true "Farol da Barra")
+![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV-city-sights/blob/main/Screenshots//img03.jpg?raw=true "Farol da Barra")
 
-![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img05.jpg?raw=true "Hotel Pestana")
+![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV-city-sights/blob/main/Screenshots//img05.jpg?raw=true "Hotel Pestana")
 
 <br>
 
